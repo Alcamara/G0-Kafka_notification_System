@@ -1,1 +1,1 @@
-# G0-Kafka_notification_System
+# Notification System Using Go & Kafka
